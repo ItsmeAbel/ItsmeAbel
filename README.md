@@ -30,7 +30,3 @@
 
 <br />
 <br />
-
-
-[website]: https://twitter.com/Abel_Kenea
-[twitter]: https://twitter.com/Abel_Kenea
