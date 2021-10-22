@@ -1,13 +1,13 @@
 ### Hi there, I'm Abel - aka [WizKid][website] 👋
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-## I'm a student currently studying in Karlstad Universty!!
+## I'm a student currently studying in Karlstad Universty!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and upload more github projects
 - ⚡ Fun fact: I love to draw and read books
 
-
+<br />
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
