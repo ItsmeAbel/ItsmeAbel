@@ -1,4 +1,4 @@
-### Hi there, I'm Abel - aka WizKid 👋 ! 
+### Hi there, I'm Abel - aka WizKid! 👋
 
 
 ## I'm a student currently studying at Karlstad Universty!
