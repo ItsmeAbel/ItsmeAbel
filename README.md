@@ -1,7 +1,7 @@
 ### Hi there, I'm Abel - aka WizKid 👋 ! 
 
 
-## I'm a student currently studying in Karlstad Universty!
+## I'm a student currently studying at Karlstad Universty!
 
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2021 Goals: Contribute more to Open Source projects and upload more github projects
