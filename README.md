@@ -1,6 +1,6 @@
 ### Hi there, I'm Abel! 👋
 
-<img align= 'right' src="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>" width=auto height=350 />
+<img align= 'right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width=auto height=350 />
 
 ## I'm a student currently studying at Karlstad Universty!
 
