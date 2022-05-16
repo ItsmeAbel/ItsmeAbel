@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently a seed in its blooming stage 🤣 
 - 🥅 2022 Goals: Contribute more to Open Source projects and work on more personal projects
-- ⚡ Fun fact: I'm one of the better people out there
+- ⚡ Fun fact: I love bread
 
 <br />
 
