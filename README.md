@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently a seed in its blooming stage 🤣 
 - 🥅 2023 Goals: Contribute more to Open Source projects and work on more personal projects
-- ⚡ Fun fact: I love bread
-
 <br />
 
 
