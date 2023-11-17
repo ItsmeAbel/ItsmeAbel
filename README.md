@@ -1,6 +1,6 @@
 ### Hi there, I'm Abel! 👋
 
-<img align= 'right' src="[https://giphy.com/embed/13HgwGsXF0aiGY](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)" width="480" height="270"/>
+<img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
 ## I'm a student currently studying at Karlstad Universty!
 
