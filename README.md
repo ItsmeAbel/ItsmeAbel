@@ -1,8 +1,8 @@
-### Hi there, I'm Abel! 👋
+### I do stuff
 
 <img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
-## I'm a student currently studying at Karlstad Universty!
+## You can find me here and there but mostly at Karlstad Uni!
 
 - 🌱 I’m currently a seed in its blooming stage 🤣 
 - 🥅 2023 Goals: Contribute more to Open Source projects and work on more personal projects
