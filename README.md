@@ -1,8 +1,8 @@
-# Here for fun
+### Here for fun
 
 <img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
-## You can find me here and there but mostly at Karlstad Uni!
+### You can find me here and there but mostly at Karlstad Uni!
 
 - 🌱 currently a seed in its blooming stage 🤣 
 - 🥅 2025 Goals: Contribute to Open Source projects and finish my university studies
