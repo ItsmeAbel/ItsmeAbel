@@ -1,11 +1,11 @@
-### I do stuff
+### Here for fun
 
 <img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
 ## You can find me here and there but mostly at Karlstad Uni!
 
-- 🌱 I’m currently a seed in its blooming stage 🤣 
-- 🥅 2023 Goals: Contribute more to Open Source projects and work on more personal projects
+- 🌱 currently a seed in its blooming stage 🤣 
+- 🥅 2025 Goals: Contribute to Open Source projects and finish my university studies
 <br />
 
 
