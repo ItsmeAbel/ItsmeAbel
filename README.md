@@ -1,4 +1,4 @@
-### "Everything can always be better." - Anonymus
+### "Everything can always be better." - Anonymous
 
 <img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
