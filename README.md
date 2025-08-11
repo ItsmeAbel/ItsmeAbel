@@ -1,10 +1,10 @@
-### Here for fun
+### "Everything can always be better." - Anonymus
 
 <img align= 'right' src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
 
 ### You can find me here and there, but mostly at Karlstad Uni!
 
-- 🌱 currently a seed in its blooming stage
+- 🌱 Always blooming and constantly learning!
 - 🥅 2025 Goals: Contribute to open-source projects and focus on my university studies
 <br />
 
