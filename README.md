@@ -8,7 +8,7 @@
 <img
   align="right"
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNmdnc0bGh2aXZpcDd4endxaXE2Mnd1ZTF2MWdneTB2Z3pma3UzcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif"
-  width="270"
+  width="260"
 />
 
 ### 👋 Hi there!
