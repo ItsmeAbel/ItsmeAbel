@@ -20,7 +20,6 @@
 
 <br/>
 
-
 ## 🚀 Live Progress Tracking
 
 <p align="left">
