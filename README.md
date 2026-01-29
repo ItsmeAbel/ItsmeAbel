@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://roadmap.sh">
     <img
-      src="https://roadmap.sh/card/tall/695c2a9cd9e635a890b085e1?variant=dark&roadmaps=datastructures-and-algorithms%2Cai-engineer&v={{timestamp}}"
+      src="https://roadmap.sh/card/tall/695c2a9cd9e635a890b085e1?variant=dark&roadmaps=datastructures-and-algorithms%2Cai-engineer&v={timestamp}"
       alt="AI Engineer Roadmap"
       width="300"
     />
