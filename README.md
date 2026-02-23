@@ -3,19 +3,16 @@
   src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
   width="990"
 />
-
-### Aien Aristeuein: Ever to excel
 <img
   align="right"
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNmdnc0bGh2aXZpcDd4endxaXE2Mnd1ZTF2MWdneTB2Z3pma3UzcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif"
   width="260"
 />
 
-### 👋 Hi there!
+### Hey there👋
+I'm Abel. You can find me here and there, but mostly at **Karlstad University**. I have a strong interest in Full-stack dev, AI engineering, and game dev. During my university studies, I have developed a solid foundation in many programming areas, as well as high-level programming through personal projects and coursework. I am well-versed in Python, C#, C, React, Assembly, some Java, and several frameworks. Feel free to look through my GitHub repos and contact me if anything catches your eye or if you become interested. Thank you!
 
-### You can find me here and there, but mostly at **Karlstad University**
-
-- 🌱 Always blooming and constantly learning  
+- 🌱 I love learning and acquiring new skills
 - 🥅 **2026 Goal:** Learn AI Engineering & AI Agents  
 
 <br/>
